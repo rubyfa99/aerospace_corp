@@ -1,0 +1,17 @@
+name: ms_environment
+dependencies:
+  - python=3.8
+  - astropy
+  - poliastro
+  - numpy
+  - matplotlib
+  - simpy
+  - pandas
+  - pathlib
+  - pymoo
+  - plotly
+  - dash
+  - scikit-image
+  - tensorflow
+  - streamlit
+  - pillow
